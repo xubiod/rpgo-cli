@@ -1,7 +1,7 @@
 # RPGO-CLI
 
-This is a command-line tool that is close to basic feature parity with
-**RPG-Patcher**. You can see what it can do under [Actions](#actions) or running
+This is a command-line tool that uses [RPGO](https://github.com/xubiod/rpgo) that is close to basic feature parity with
+**[RPG-Patcher](https://github.com/xubiod/RPG-Patcher)**. You can see what it can do under [Actions](#actions) or running
 it without any flags.
 
 You can run this CLI with Go 1.18.4 (currently tested version):
